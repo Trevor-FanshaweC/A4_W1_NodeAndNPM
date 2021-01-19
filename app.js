@@ -33,7 +33,7 @@ const server = http.createServer((req, res) => {
         break;
 
         default:
-        res.end('8 days and counting til the World freakin parties cuz the orange idiot will be gone!');
+        res.end('1 day and counting til the World freakin parties cuz the orange idiot will be gone!');
     }    
 });
 
